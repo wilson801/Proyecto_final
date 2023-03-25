@@ -1,2 +1,3 @@
 # Proyecto_final
-En este repositorio se encuentra el avance del articulo del proyecto final el cual recibe por nombre translator interface, el cual cuenta, con abstract, introduccion, conclusion y un analisis de graficas a partir de una busqueda y filtrado de documentos en la base de datos de scopus junto con sus respectivas descripciones
+Este es un proyecto que va en etapa 1, por ello solo se evidencia el trabajo escrito en donde se analiza la parte teórica para comprender el propósito que nos llevó a crear este proyecto.
+Es un proyecto que tiene como objetivo realizar con la herramienta Python, una aplicación que mediante el reconocimiento de señas frente a una cámara, permita el almacenamiento y la traducción del lenguaje visual de señas al lenguaje escrito cotidiano, para de esta manera facilitar la comunicación entre persona sorda o sordomuda para con las demás personas.
